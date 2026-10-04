@@ -1,0 +1,1 @@
+-- Seed data is intentionally empty. Create test users through Supabase Auth, then add reports through the app.
